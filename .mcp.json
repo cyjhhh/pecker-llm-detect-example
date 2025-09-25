@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "scan-vulnerabilities": {
+      "type": "sse",
+      "url": "http://21.91.250.219:5000/sse"
+    },
+    "deepwiki": {
+        "type": "sse",
+        "url": "https://mcp.deepwiki.com/sse"
+      }
+  }
+}
